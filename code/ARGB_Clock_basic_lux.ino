@@ -41,8 +41,8 @@ uint8_t digits[][7] = {
 };
 
 // Wifi credentials 
-const char* ssid     = "HomeWiFiGP";
-const char* password = "Gunjan.310102";
+const char* ssid     = "-----------------";
+const char* password = "-----------------";
 
 // NTP configs
 const char* ntpServer = "pool.ntp.org";
