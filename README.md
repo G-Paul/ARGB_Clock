@@ -12,3 +12,13 @@ A DIY 7-segment clock built with WS2812b neopixels, ESP-32, FastLED library and 
 - Hugely customizable due to individually addressable LEDs (WS2812b) paired with the FastLED library
 - Auto brightness using Ambient Light Sensor [APDS9930]. 
 
+
+
+## Images: 
+
+
+![](https://github.com/G-Paul/ARGB_Clock/blob/main/images/clock_image_1.jpg)
+
+
+![](https://github.com/G-Paul/ARGB_Clock/blob/main/images/clock_image_2.jpg)
+
