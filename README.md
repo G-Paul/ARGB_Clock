@@ -5,7 +5,7 @@ A DIY 7-segment clock built with WS2812b neopixels, ESP-32, FastLED library and 
 
 [Files for 3D print - Printables](https://www.printables.com/model/937971-7-segment-rgb-led-clock-using-neopixels)       
 
-Checkout the [wiki](https://github.com/G-Paul/ARGB_Clock/wiki) for the detailed Build Instructions!
+Checkout the [wiki](https://github.com/G-Paul/ARGB_Clock/wiki) for the detailed **Build Instructions!**
 
 
 ![](https://github.com/G-Paul/ARGB_Clock/blob/main/images/video.gif)
