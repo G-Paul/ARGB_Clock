@@ -21,6 +21,7 @@ Checkout the [wiki](https://github.com/G-Paul/ARGB_Clock/wiki) for the detailed 
 
 
 ## Images: 
+![](https://github.com/G-Paul/ARGB_Clock/blob/main/images/assembly_image_1.jpg)    
 
 
 ![](https://github.com/G-Paul/ARGB_Clock/blob/main/images/clock_image_1.jpg)
